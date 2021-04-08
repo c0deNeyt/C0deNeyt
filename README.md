@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naitsircher
-- 👀 I’m interested in Software Develpment..
-- 🌱 I’m currently learning Php, Php Frame work and best prctice for Coding..
+- 👀 I’m interested in Software Development..
+- 🌱 I’m currently learning Php, Php Frame work and best prctice in Coding..
 - 💞️ I’m looking to collaborate on my projects...
 - 📫 How to reach me? Send me an email @ chanchristianarana@gmail.com, Send me message on Signal Neyt(09452676627)
 
