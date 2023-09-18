@@ -3,7 +3,7 @@
 <p align="left">👀 I’m interested in Software Development.</p>
 <p align="left">🌱 I’m currently learning Php and best prctice in Coding.</p>
 <p align="left">💞️ I’m looking for programming pair.</p>
-<p align="left">📫 How to reach me? Send me an email @ chanchristianarana@gmail.com, Send me DM on discord NEYT#4900</p>
+<p align="left">📫 How to reach me? Send me an email @ chanchristianarana@gmail.com, Send me DM on discord neyt9</p>
 
 <br/>
 <br/>
