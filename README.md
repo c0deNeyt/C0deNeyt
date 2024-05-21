@@ -5,6 +5,9 @@
 <p align="left">💞️ I’m looking for programming pair.</p>
 <p align="left">📫 How to reach me? Send me an email @ chanchristianarana@gmail.com, Send me DM on discord neyt9</p>
 
+<a https://kojipkgs.fedoraproject.org/packages/Fedora-Container-Base/40/20240222.n.0/images/ /></a>
+<a>https://pdsgroupph-my.sharepoint.com/:f:/g/personal/christian_arana_pds_com_ph/EmbBLL9RtdpNhHGnIgeN3LQBJkbNrcvA76260uF2joc1ig?e=4quqdV</a>
+
 <br/>
 <br/>
 
